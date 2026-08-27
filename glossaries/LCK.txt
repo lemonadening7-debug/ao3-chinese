@@ -1,6 +1,6 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Lemon
-更新时间：2026.08.27
+更新时间：2026.08.28
 //按俱乐部标注，每个俱乐部下分通用词条（不区分大小写）、禁翻词条（禁止翻译）、词条（严格区分大小写）
 //部分选手本名来自豆包，若有不常用的译名请按照下一条邮箱联系
 //如有错漏、订正、增删等需要更新的情况请联系邮箱: lemonwinner@163.com
@@ -40,27 +40,28 @@ BP
 //26T1
 
 词条
-Choi Hyeon-joon: 崔 玄準
-Moon Hyeon-joon: 文 炫竣
-Lee Sang-hyeok: 李 相赫
-Kim Su-hwan: 金 修焕
-Ryu Min-seok: 柳 岷析
+Choi Hyeon-joon = 崔 玄準
+Moon Hyeon-joon = 文 炫竣
+Lee Sang-hyeok = 李 相赫
+Kim Su-hwan = 金 修焕
+Ryu Min-seok = 柳 岷析
 
-Choi Hyeonjoon: 崔 玄準
-Moon Hyeonjoon: 文 炫竣
-Lee Sanghyeok: 李 相赫
-Kim Suhwan: 金 修焕
-Ryu Minseok: 柳 岷析
+Choi Hyeonjoon = 崔 玄準
+Moon Hyeonjoon = 文 炫竣
+Lee Sanghyeok = 李 相赫
+Kim Suhwan = 金 修焕
+Ryu Minseok = 柳 岷析
 
 Kim Jeong-gyun: 金 正均
 Jo Se-hyeong: 赵 世衡
 Im Jae-hyeon：林 栽贤
 Lee Ji-hoon：李 知勋
 
-Kim Jeonggyun: 金 正均
-Jo Sehyeong: 赵 世衡
-Im Jaehyeon：林 栽贤
-Lee Jihoon：李 知勋
+Kim Jeong-gyun = 金 正均
+Jo Se-hyeong = 赵 世衡
+Im Jae-hyeon = 林 栽贤
+Lee Ji-hoon = 李 知勋
+
 
 
 禁翻词条
@@ -78,25 +79,25 @@ Easyhoon
 
 //26GENG
 词条
-Kim Gi-in: 金 基仁
-Kim Geon-bu: 金 建敷
-Jeong Ji-hoon: 郑 志勋
-Park Jae-hyuk: 朴 载赫
-Joo Min-kyu: 朱 敏奎
+Kim Gi-in = 金 基仁
+Kim Geon-bu = 金 建敷
+Jeong Ji-hoon = 郑 志勋
+Park Jae-hyuk = 朴 载赫
+Joo Min-kyu = 朱 敏奎
 
-Kim Giin: 金 基仁
-Kim Geonbu: 金 建敷
-Jeong Jihoon: 郑 志勋
-Park Jaehyuk: 朴 载赫
-Joo Minkyu: 朱 敏奎
+Kim Giin = 金 基仁
+Kim Geonbu = 金 建敷
+Jeong Jihoon = 郑 志勋
+Park Jaehyuk = 朴 载赫
+Joo Minkyu = 朱 敏奎
 
-Yoo Sang-wook: 柳 相旭//ryu
-Kim Da-bin: 金 多彬
-Park Chan-ho: 朴 灿浩
+Yoo Sang-wook = 柳 相旭//ryu
+Kim Da-bin = 金 多彬
+Park Chan-ho = 朴 灿浩
 
-Yoo Sangwook: 柳 相旭//ryu
-Kim Dabin: 金 多彬
-Park Chanho: 朴 灿浩
+Yoo Sangwook = 柳 相旭//ryu
+Kim Dabin = 金 多彬
+Park Chanho = 朴 灿浩
 
 禁翻词条
 Kiin
@@ -110,23 +111,23 @@ Nova
 
 //26HLE
 词条
-Choi Woo-je: 崔 祐齐
-Seo Jin-hyeok: 徐 进赫
-Kim Geon-woo: 金 建佑
-Lee Min-hyeong: 李 玟炯
-Yoo Hwan-jung: 柳 焕俊
+Choi Woo-je = 崔 祐齐
+Seo Jin-hyeok = 徐 进赫
+Kim Geon-woo = 金 建佑
+Lee Min-hyeong = 李 玟炯
+Yoo Hwan-jung = 柳 焕中
 
-Choi Wooje: 崔 祐齐
-Seo Jinhyeok: 徐 进赫
-Kim Geonwoo: 金 建佑
-Lee Minhyeong: 李 玟炯
-Yoo Hwanjung: 刘 焕中
+Choi Wooje = 崔 祐齐
+Seo Jinhyeok = 徐 进赫
+Kim Geonwoo = 金 建佑
+Lee Minhyeong = 李 玟炯
+Yoo Hwanjung = 刘 焕中
 
-Yoon Seong-yong: 尹 成镛
-Lee Jae-ho: 李 宰浩
+Yoon Seong-yong = 尹 成镛
+Lee Jae-ho = 李 宰浩
 
-Yoon Seongyong: 尹 成镛
-Lee Jaeho: 李 宰浩
+Yoon Seongyong = 尹 成镛
+Lee Jaeho = 李 宰浩
 
 禁翻词条
 Zeus
@@ -139,25 +140,25 @@ Mowgli
 
 //26DK
 词条
-Jeon Si-woo: 全 时宇
-Choi Yong-hyeok: 崔 容赫
-Heo Su: 许 秀
-Sin Geum-jae: 申 金宰
-Oh Hyeong-seok: 吴 亨硕
+Jeon Si-woo = 全 时宇
+Choi Yong-hyeok = 崔 容赫
+Heo Su = 许 秀
+Sin Geum-jae = 申 金宰
+Oh Hyeong-seok = 吴 亨硕
 
-Jeon Siwoo: 全 时宇
-Choi Yonghyeok: 崔 容赫
-Heo Su: 许 秀
-Sin Geumjae: 申 金宰
-Oh Hyeongseok: 吴 亨硕
+Jeon Siwoo = 全 时宇
+Choi Yonghyeok = 崔 容赫
+Heo Su = 许 秀
+Sin Geumjae = 申 金宰
+Oh Hyeongseok = 吴 亨硕
 
-Kim Daeho: 金 大浩
-Lee Jeonghyeon: 李 政贤
-Ha Seungchan: 河 承灿
+Kim Daeho = 金 大浩
+Lee Jeonghyeon = 李 政贤
+Ha Seungchan = 河 承灿
 
-Kim Dae-ho: 金 大浩
-Lee Jeong-hyeon: 李 政贤
-Ha Seung-chan: 河 承灿
+Kim Dae-ho = 金 大浩
+Lee Jeong-hyeon = 李 政贤
+Ha Seung-chan = 河 承灿
 
 禁翻词条
 Lucid
@@ -170,27 +171,27 @@ Hachani
 
 //26KT
 词条
-Lee Seung-min: 李 承敏
-Moon Woo-chan: 文 友赞
-Gwak Bo-seong: 郭 普成
-Jung Ji-woo: 郑 智宇
-Jang Yong-jun: 张 容准
-Oh Dong-gyu: 吴 东圭
-Lee Sang-ho: 李 相浩
+Lee Seung-min = 李 承敏
+Moon Woo-chan = 文 友赞
+Gwak Bo-seong = 郭 普成
+Jung Ji-woo = 郑 智宇
+Jang Yong-jun = 张 容准
+Oh Dong-gyu = 吴 东圭
+Lee Sang-ho = 李 相浩
 
-Lee Seungmin: 李 承敏
-Moon Woochan: 文 友赞
-Gwak Boseong: 郭 普成
-Jung Jiwoo: 郑 智宇
-Jang Yongjun: 张 容准
-Oh Donggyu: 吴 东圭
-Lee Sangho: 李 相浩
+Lee Seungmin = 李 承敏
+Moon Woochan = 文 友赞
+Gwak Boseong = 郭 普成
+Jung Jiwoo = 郑 智宇
+Jang Yongjun = 张 容准
+Oh Donggyu = 吴 东圭
+Lee Sangho = 李 相浩
 
-Kang Dong-hoon: 姜 东勋
-Choi Seung-min: 崔 承敏
+Kang Dong-hoon = 姜 东勋
+Choi Seung-min = 崔 承敏
 
-Kang Donghoon: 姜 东勋
-Choi Seungmin: 崔 承敏
+Kang Donghoon = 姜 东勋
+Choi Seungmin = 崔 承敏
 
 禁翻词条
 PerfecT
@@ -204,21 +205,21 @@ Hirai
 Supreme
 
 //26NS
-Hwang Seong-hoon: 黄 圣勋
-Bae Young-jun: 裴 英俊
-Lee Ye-chan: 李 汭璨
-Nam Dae-geun: 南 大根
-Son Si-woo: 孙 施尤
+Hwang Seong-hoon = 黄 圣勋
+Bae Young-jun = 裴 英俊
+Lee Ye-chan = 李 汭璨
+Nam Dae-geun = 南 大根
+Son Si-woo = 孙 施尤
 
-Hwang Seonghoon: 黄 圣勋
-Bae Youngjun: 裴 英俊
-Lee Yechan: 李 汭璨
-Nam Daegeun: 南 大根
-Son Siwoo: 孙 施尤
+Hwang Seonghoon = 黄 圣勋
+Bae Youngjun = 裴 英俊
+Lee Yechan = 李 汭璨
+Nam Daegeun = 南 大根
+Son Siwoo = 孙 施尤
 
-Choi In-kyu: 崔 仁奎
+Choi In-kyu = 崔 仁奎
 
-Choi Inkyu: 崔 仁奎
+Choi Inkyu = 崔 仁奎
 
 禁翻词条
 Kingen
@@ -230,27 +231,27 @@ DanDy
 
 //26BFX
 词条
-Song Hyeon-min: 宋 贤敏
-Jeon Eo-jin: 全 御珍
-Lee Dae-kwang: 李 大光
-Yoo Ji-myeong: 刘 知明
-Kim Tae-yoon: 金 泰勇
-Kim Hyeong-gyu: 金 亨圭
+Song Hyeon-min = 宋 贤敏
+Jeon Eo-jin = 全 御珍
+Lee Dae-kwang = 李 大光
+Yoo Ji-myeong = 刘 知明
+Kim Tae-yoon = 金 泰勇
+Kim Hyeong-gyu = 金 亨圭
 
-Song Hyeonmin: 宋 贤敏
-Jeon Eojin: 全 御珍
-Lee Daekwang: 李 大光
-Yoo Jimyeong: 刘 知明
-Kim Taeyoon: 金 泰勇
-Kim Hyeonggyu: 金 亨圭
+Song Hyeonmin = 宋 贤敏
+Jeon Eojin = 全 御珍
+Lee Daekwang = 李 大光
+Yoo Jimyeong = 刘 知明
+Kim Taeyoon = 金 泰勇
+Kim Hyeonggyu = 金 亨圭
 
-Park Jun-seok: 朴 俊锡
-Shin Hyeong-seop: 申 亨燮
-Nam Tae-yoo: 南 泰裕
+Park Jun-seok = 朴 俊锡
+Shin Hyeong-seop = 申 亨燮
+Nam Tae-yoo = 南 泰裕
 
-Park Junseok: 朴 俊锡
-Shin Hyeongseop: 申 亨燮
-Nam Taeyoo: 南 泰裕
+Park Junseok = 朴 俊锡
+Shin Hyeongseop = 申 亨燮
+Nam Taeyoo = 南 泰裕
 
 禁翻词条
 Clear
@@ -265,27 +266,27 @@ LirA
 
 //26KRX
 词条
-Lee Min-hoi: 李 敏会
-Kim Jeong-hyeon: 金 正贤
-Ha Seung-min: 河 承敏
-Son Woo-hyeon: 孙 雨铉
-Kim Ha-ram: 金 夏岚
-Moon Gwan-bin: 文 关彬
-Kang Min-woo: 姜 敏宇
-Lee Jae-won: 李 宰元
+Lee Min-hoi = 李 敏会
+Kim Jeong-hyeon = 金 正贤
+Ha Seung-min = 河 承敏
+Son Woo-hyeon = 孙 雨铉
+Kim Ha-ram = 金 夏岚
+Moon Gwan-bin = 文 关彬
+Kang Min-woo = 姜 敏宇
+Lee Jae-won = 李 宰元
 
-Lee Minhoi: 李 敏会
-Kim Jeonghyeon: 金 正贤
-Ha Seungmin: 河 承敏
-Son Woohyeon: 孙 雨铉
-Kim Haram: 金 夏岚
-Moon Gwanbin: 文 关彬
-Kang Minwoo: 姜 敏宇
-Lee Jaewon: 李 宰元
+Lee Minhoi = 李 敏会
+Kim Jeonghyeon = 金 正贤
+Ha Seungmin = 河 承敏
+Son Woohyeon = 孙 雨铉
+Kim Haram = 金 夏岚
+Moon Gwanbin = 文 关彬
+Kang Minwoo = 姜 敏宇
+Lee Jaewon = 李 宰元
 
-Shin Dong-wook: 申 东旭
+Shin Dong-wook = 申 东旭
 
-Shin Dongwook: 申 东旭
+Shin Dongwook = 申 东旭
 
 禁翻词条
 Frog
@@ -301,35 +302,35 @@ Shine
 //26DNS
 词条
 
-Lee Dong-ju: 李 栋柱
-Hong Chang-hyeon: 洪 畅贤
-Lee Ju-hyeon: 李 柱贤
-Seo Dae-gil: 徐 大吉
-Jeong Yoon-su: 郑 尹秀
+Lee Dong-ju = 李 栋柱
+Hong Chang-hyeon = 洪 畅贤
+Lee Ju-hyeon = 李 柱贤
+Seo Dae-gil = 徐 大吉
+Jeong Yoon-su = 郑 尹秀
 
-Lee Dongju: 李 栋柱
-Hong Changhyeon: 洪 畅贤
-Lee Juhyeon: 李 柱贤
-Seo Daegil: 徐 大吉
-Jeong Yoonsu: 郑 尹秀
+Lee Dongju = 李 栋柱
+Hong Changhyeon = 洪 畅贤
+Lee Juhyeon = 李 柱贤
+Seo Daegil = 徐 大吉
+Jeong Yoonsu = 郑 尹秀
 
-Kim Dan-woo: 金 丹宇
-Kim Jeong-min: 金 祯敏
-Han Jeong-heum: 韩 祯钦
-Son Jun-hwan: 孙 俊焕
+Kim Dan-woo = 金 丹宇
+Kim Jeong-min = 金 祯敏
+Han Jeong-heum = 韩 祯钦
+Son Jun-hwan = 孙 俊焕
 
-Kim Danwoo: 金 丹宇
-Kim Jeongmin: 金 祯敏
-Han Jeongheum: 韩 祯钦
-Son Junhwan: 孙 俊焕
+Kim Danwoo = 金 丹宇
+Kim Jeongmin = 金 祯敏
+Han Jeongheum = 韩 祯钦
+Son Junhwan = 孙 俊焕
 
 
 
-Yu Byeong-jun: 柳 炳俊
-Kim Geon-woo: 金 建宇
+Yu Byeong-jun = 柳 炳俊
+Kim Geon-woo = 金 建宇
 
-Yu Byeongjun: 柳 炳俊
-Kim Geonwoo: 金 建宇
+Yu Byeongjun = 柳 炳俊
+Kim Geonwoo = 金 建宇
 
 禁翻词条
 DuDu
@@ -348,26 +349,26 @@ Millimas
 //26BRO
 词条
 
-Shin Min-jae: 申 敏宰
-Kim Min-seong: 金 敏成
-Lee Sang-min: 李 相民
-Park Jin-seong: 朴 辰成
-Namgung Seong-hoon: 南宫 成勋
+Shin Min-jae = 申 敏宰
+Kim Min-seong = 金 敏成
+Lee Sang-min = 李 相民
+Park Jin-seong = 朴 辰成
+Namgung Seong-hoon = 南宫 成勋
 
-Shin Minjae: 申 敏宰
-Kim Minseong: 金 敏成
-Lee Sangmin: 李 相民
-Park Jinseong: 朴 辰成
-Namgung Seonghoon: 南宫 成勋
+Shin Minjae = 申 敏宰
+Kim Minseong = 金 敏成
+Lee Sangmin = 李 相民
+Park Jinseong = 朴 辰成
+Namgung Seonghoon = 南宫 成勋
 
-Lee Jeong-tae: 李 正泰
-Cho Woo-jin: 赵 宇振
+Lee Jeong-tae = 李 正泰
+Cho Woo-jin = 赵 宇振
 
-Lee Jeongtae: 李 正泰
-Cho Woojin: 赵 宇振
+Lee Jeongtae = 李 正泰
+Cho Woojin = 赵 宇振
 
-Kim Sang-soo: 金 相洙
-Kim Sangsoo: 金 相洙
+Kim Sang-soo = 金 相洙
+Kim Sangsoo = 金 相洙
 
 禁翻词条
 Casting
@@ -381,45 +382,45 @@ Ssong
 
 //LPL韩援（部分）
 词条
-Song Eui-jin: 宋 义进
-Kang Seung-lok：姜承錄
-Lim Seong-min: 林 圣珉
-Park Do-hyeon: 朴 到贤
-Kim Dong-beom: 金 东范
-Kim Jin-hong: 金 珍洪
-Seo Dae-gil: 徐 大吉
-Kim Jeong-min: 金 祯敏
-Yoon Yong-ho: 尹 龙镐
-Koo Kwan-mo: 具 宽模
-Lee Tae-young: 李 泰永
-Lee Ju-han: 李 柱翰
-Jeong Jae-hun: 郑 宰勋
-Jo Seung-hoon: 赵 承勋
-Park Jeung-hwan: 朴 增焕
-Kim Hong-jo: 金 弘祚
-Moon Hyeong-seok: 文 亨硕
-Lee Seung-yong: 李 承勇
-Noh Tae-yoon: 卢 泰允
+Song Eui-jin = 宋 义进
+Kang Seung-lok = 姜承錄
+Lim Seong-min = 林 圣珉
+Park Do-hyeon = 朴 到贤
+Kim Dong-beom = 金 东范
+Kim Jin-hong = 金 珍洪
+Seo Dae-gil = 徐 大吉
+Kim Jeong-min = 金 祯敏
+Yoon Yong-ho = 尹 龙镐
+Koo Kwan-mo = 具 宽模
+Lee Tae-young = 李 泰永
+Lee Ju-han = 李 柱翰
+Jeong Jae-hun = 郑 宰勋
+Jo Seung-hoon = 赵 承勋
+Park Jeung-hwan = 朴 增焕
+Kim Hong-jo = 金 弘祚
+Moon Hyeong-seok = 文 亨硕
+Lee Seung-yong = 李 承勇
+Noh Tae-yoon = 卢 泰允
 
-Song Euijin: 宋 义进
-Kang Seunglok：姜承錄
-Lim Seongmin: 林 圣珉
-Park Dohyeon: 朴 到贤
-Kim Dongbeom: 金 东范
-Kim Jinhong: 金 珍洪
-Seo Daegil: 徐 大吉
-Kim Jeongmin: 金 祯敏
-Yoon Yongho: 尹 龙镐
-Koo Kwanmo: 具 宽模
-Lee Taeyoung: 李 泰永
-Lee Juhan: 李 柱翰
-Jeong Jaehun: 郑 宰勋
-Jo Seunghoon: 赵 承勋
-Park Jeunghwan: 朴 增焕
-Kim Hongjo: 金 弘祚
-Moon Hyeongseok: 文 亨硕
-Lee Seungyong: 李 承勇
-Noh Taeyoon: 卢 泰允
+Song Euijin = 宋 义进
+Kang Seunglok = 姜承錄
+Lim Seongmin = 林 圣珉
+Park Dohyeon = 朴 到贤
+Kim Dongbeom = 金 东范
+Kim Jinhong = 金 珍洪
+Seo Daegil = 徐 大吉
+Kim Jeongmin = 金 祯敏
+Yoon Yongho = 尹 龙镐
+Koo Kwanmo = 具 宽模
+Lee Taeyoung = 李 泰永
+Lee Juhan = 李 柱翰
+Jeong Jaehun = 郑 宰勋
+Jo Seunghoon = 赵 承勋
+Park Jeunghwan = 朴 增焕
+Kim Hongjo = 金 弘祚
+Moon Hyeongseok = 文 亨硕
+Lee Seungyong = 李 承勇
+Noh Tae-yoon = 卢 泰允
 
 禁翻词条
 Rookie
@@ -444,50 +445,49 @@ Burdol
 
 //LCK已退役选手（部分）
 词条
-Jang Gyeong-Hwan 张 庆欢
-Kim Dong-ha: 金 东河
-Jang Hyeong-seok: 张 亨硕
-Yoon Ha-woon: 尹 夏运
-Jang Yong-hoon: 张 容勋
+Jang Gyeong-Hwan = 张 庆欢
+Kim Dong-ha = 金 东河
+Jang Hyeong-seok = 张 亨硕
+Yoon Ha-woon = 尹 夏运
+Jang Yong-hoon = 张 容勋
 
-Bae Seong-woong: 裴 性雄
-Choi In-seok: 崔 仁石
-Lee Da-yoon: 李 多允
-Han Wang-ho: 韩 旺乎
+Bae Seong-woong= =裴 性雄
+Choi In-seok = 崔 仁石
+Lee Da-yoon = 李 多允
+Han Wang-ho = 韩 旺乎
 
-Heo Won-seok: 许 元硕
-Lee Seo-haeng: 李 序行
+Heo Won-seok = 许 元硕
+Lee Seo-haeng = 李 序行
 
-Chae Gwang-jin: 蔡 光珍
-Kang Hyung-woo: 姜 亨宇
-Bae Jun-sik 裴 俊植
-Lee Gwan-hyung: 李 官炯
-Kang Beom-hyeon: 姜 范铉
-Jo Se-hyeong: 赵 世衡
-Lee Jae-wan: 李 在宛
+Chae Gwang-jin = 蔡 光珍
+Kang Hyung-woo = 姜 亨宇
+Bae Jun-sik = 裴 俊植
+Lee Gwan-hyung = 李 官炯
+Kang Beom-hyeon = 姜 范铉
+Jo Se-hyeong = 赵 世衡
+Lee Jae-wan = 李 在宛
 
-Jang GyeongHwan 张 庆欢
-Kim Dongha: 金 东河
-Jang Hyeongseok: 张 亨硕
-Yoon Hawoon: 尹 夏运
-Jang Yonghoon: 张 容勋
+Jang GyeongHwan = 张 庆欢
+Kim Dongha = 金 东河
+Jang Hyeongseok = 张 亨硕
+Yoon Hawoon = 尹 夏运
+Jang Yonghoon = 张 容勋
 
-Bae Seongwoong: 裴 性雄
-Choi Inseok: 崔 仁石
-Lee Dayoon: 李 多允
-Han Wangho: 韩 旺乎
+Bae Seongwoong= =裴 性雄
+Choi Inseok = 崔 仁石
+Lee Dayoon = 李 多允
+Han Wangho = 韩 旺乎
 
-Heo Wonseok: 许 元硕
-Lee Seohaeng: 李 序行
+Heo Wonseok = 许 元硕
+Lee Seohaeng = 李 序行
 
-Chae Gwangjin: 蔡 光珍
-Kang Hyungwoo: 姜 亨宇
-Bae Junsik 裴 俊植
-Lee Gwanhyung: 李 官炯
-Kang Beomhyeon: 姜 范铉
-Jo Sehyeong: 赵 世衡
-Lee Jaewan: 李 在宛
-
+Chae Gwangjin = 蔡 光珍
+Kang Hyungwoo = 姜 亨宇
+Bae Junsik = 裴 俊植
+Lee Gwanhyung = 李 官炯
+Kang Beomhyeon = 姜 范铉
+Jo Sehyeong = 赵 世衡
+Lee Jaewan = 李 在宛
 禁翻词条
 
 Marin
