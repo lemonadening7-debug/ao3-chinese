@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：Lemon
 更新时间：2026.08.28
 //按俱乐部标注，每个俱乐部下分通用词条（不区分大小写）、禁翻词条（禁止翻译）、词条（严格区分大小写）
@@ -40,17 +40,27 @@ BP
 //26T1
 
 词条
-Choi Hyeon-joon = 崔 玄準
-Moon Hyeon-joon = 文 炫竣
+Choi Hyeon-joon：崔 玄準
+Moon Hyeon-joon：文 炫竣
 Lee Sang-hyeok = 李 相赫
 Kim Su-hwan = 金 修焕
 Ryu Min-seok = 柳 岷析
 
-Choi Hyeonjoon = 崔 玄準
-Moon Hyeonjoon = 文 炫竣
+Choi Hyeonjoon：崔 玄準
+Choi Hyunjoon = 崔 玄準
+Moon Hyeonjoon：文 炫竣
+Moon Hyeonjun = 文 炫竣
 Lee Sanghyeok = 李 相赫
 Kim Suhwan = 金 修焕
 Ryu Minseok = 柳 岷析
+
+choi hyeonjoon = 崔 玄準
+choi hyunjoon = 崔 玄準
+moon hyeonjoon = 文 炫竣
+moon hyeonjun = 文 炫竣
+lee sanghyeok = 李 相赫
+kim suhwan = 金 修焕
+ryu minseok = 柳 岷析
 
 Kim Jeong-gyun: 金 正均
 Jo Se-hyeong: 赵 世衡
@@ -61,6 +71,11 @@ Kim Jeong-gyun = 金 正均
 Jo Se-hyeong = 赵 世衡
 Im Jae-hyeon = 林 栽贤
 Lee Ji-hoon = 李 知勋
+
+kim jeong-gyun = 金 正均
+jo se-hyeong = 赵 世衡
+im jae-hyeon = 林 栽贤
+lee ji-hoon = 李 知勋
 
 
 
@@ -91,6 +106,12 @@ Jeong Jihoon = 郑 志勋
 Park Jaehyuk = 朴 载赫
 Joo Minkyu = 朱 敏奎
 
+kim giin = 金 基仁
+kim geonbu = 金 建敷
+jeong jihoon = 郑 志勋
+park jaehyuk = 朴 载赫
+joo minkyu = 朱 敏奎
+
 Yoo Sang-wook = 柳 相旭//ryu
 Kim Da-bin = 金 多彬
 Park Chan-ho = 朴 灿浩
@@ -98,6 +119,10 @@ Park Chan-ho = 朴 灿浩
 Yoo Sangwook = 柳 相旭//ryu
 Kim Dabin = 金 多彬
 Park Chanho = 朴 灿浩
+
+yoo sangwook = 柳 相旭//ryu
+kim dabin = 金 多彬
+park chanho = 朴 灿浩
 
 禁翻词条
 Kiin
@@ -121,7 +146,15 @@ Choi Wooje = 崔 祐齐
 Seo Jinhyeok = 徐 进赫
 Kim Geonwoo = 金 建佑
 Lee Minhyeong = 李 玟炯
+Lee Minhyung = 李 玟炯
 Yoo Hwanjung = 刘 焕中
+
+choi wooje = 崔 祐齐
+seo jinhyeok = 徐 进赫
+kim geonwoo = 金 建佑
+lee minhyeong = 李 玟炯
+lee minhyung = 李 玟炯
+yoo hwanjung = 刘 焕中
 
 Yoon Seong-yong = 尹 成镛
 Lee Jae-ho = 李 宰浩
@@ -151,6 +184,12 @@ Choi Yonghyeok = 崔 容赫
 Heo Su = 许 秀
 Sin Geumjae = 申 金宰
 Oh Hyeongseok = 吴 亨硕
+
+jeon siwoo = 全 时宇
+choi yonghyeok = 崔 容赫
+heo su = 许 秀
+sin geumjae = 申 金宰
+oh hyeongseok = 吴 亨硕
 
 Kim Daeho = 金 大浩
 Lee Jeonghyeon = 李 政贤
@@ -187,6 +226,14 @@ Jang Yongjun = 张 容准
 Oh Donggyu = 吴 东圭
 Lee Sangho = 李 相浩
 
+lee seungmin = 李 承敏
+moon woochan = 文 友赞
+gwak boseong = 郭 普成
+jung jiwoo = 郑 智宇
+jang yongjun = 张 容准
+oh donggyu = 吴 东圭
+lee sangho = 李 相浩
+
 Kang Dong-hoon = 姜 东勋
 Choi Seung-min = 崔 承敏
 
@@ -216,6 +263,12 @@ Bae Youngjun = 裴 英俊
 Lee Yechan = 李 汭璨
 Nam Daegeun = 南 大根
 Son Siwoo = 孙 施尤
+
+hwang seonghoon = 黄 圣勋
+bae youngjun = 裴 英俊
+lee yechan = 李 汭璨
+nam daegeun = 南 大根
+son siwoo = 孙 施尤
 
 Choi In-kyu = 崔 仁奎
 
@@ -488,6 +541,56 @@ Lee Gwanhyung = 李 官炯
 Kang Beomhyeon = 姜 范铉
 Jo Sehyeong = 赵 世衡
 Lee Jaewan = 李 在宛
+Kim Hyuk-kyu = 金赫奎
+Kim Hyukkyu = 金赫奎
+Park Uijin = 朴义真
+
+jang gyeong-hwan = 张 庆欢
+kim dong-ha = 金 东河
+jang hyeong-seok = 张 亨硕
+yoon ha-woon = 尹 夏运
+jang yong-hoon = 张 容勋
+
+bae seong-woong= =裴 性雄
+choi in-seok = 崔 仁石
+lee da-yoon = 李 多允
+han wang-ho = 韩 旺乎
+
+heo won-seok = 许 元硕
+lee seo-haeng = 李 序行
+
+chae gwang-jin = 蔡 光珍
+kang hyung-woo = 姜 亨宇
+bae jun-sik = 裴 俊植
+lee gwan-hyung = 李 官炯
+kang beom-hyeon = 姜 范铉
+jo se-hyeong = 赵 世衡
+lee jae-wan = 李 在宛
+
+jang gyeonghwan = 张 庆欢
+kim dongha = 金 东河
+jang hyeongseok = 张 亨硕
+yoon hawoon = 尹 夏运
+jang yonghoon = 张 容勋
+
+bae seongwoong= =裴 性雄
+choi inseok = 崔 仁石
+lee dayoon = 李 多允
+han wangho = 韩 旺乎
+
+heo wonseok = 许 元硕
+lee seohaeng = 李 序行
+
+chae gwangjin = 蔡 光珍
+kang hyungwoo = 姜 亨宇
+bae junsik = 裴 俊植
+lee gwanhyung = 李 官炯
+kang beomhyeon = 姜 范铉
+jo sehyeong = 赵 世衡
+lee jaewan = 李 在宛
+kim hyuk-kyu = 金赫奎
+kim hyukkyu = 金赫奎
+park uijin = 朴义真
 禁翻词条
 
 Marin
@@ -508,4 +611,5 @@ Heart
 GorillA
 Mata
 Wolf
-
+Deft
+Untara
