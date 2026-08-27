@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：Lemon
 更新时间：2026.08.27
 //按俱乐部标注，每个俱乐部下分通用词条（不区分大小写）、禁翻词条（禁止翻译）、词条（严格区分大小写）
@@ -47,7 +47,7 @@ Kim Su-hwan: 金 修焕
 Ryu Min-seok: 柳 岷析
 
 Choi Hyeonjoon: 崔 玄準
-Mun Hyeonjoon: 文 炫竣
+Moon Hyeonjoon: 文 炫竣
 Lee Sanghyeok: 李 相赫
 Kim Suhwan: 金 修焕
 Ryu Minseok: 柳 岷析
